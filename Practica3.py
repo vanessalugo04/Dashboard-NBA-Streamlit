@@ -19,6 +19,9 @@ with st.sidebar:
 
 
 st.title("Datos!")
+
+st.write(f"Hecho por Antonio Eugenio Daniel y Lugo Avalos Vanessa Aide")
+
 st.write(f"Equipo: {team}")
 st.write(f"Año: {year}")
 st.write(f'Tipo {tipo}')
